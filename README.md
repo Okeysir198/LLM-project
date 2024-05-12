@@ -1,7 +1,7 @@
 # LLM Project: Industrial Generative AI Q&A System for Refrigeration Field Engineers
 
 [![view source code ](https://img.shields.io/badge/GitHub%20Repository-gray?logo=github)](https://github.com/Okeysir198/LLM-project)
-
+[![linkedin ](https://img.shields.io/badge/Nguyen%20Thanh%20Trung-blue?logo=linkedin&color=blue)](https://www.linkedin.com/in/nttrung198/)
 ## Problem Statement
 
 Design and implement a Q&A system to assist field engineers in the refrigeration domain. The system should facilitate the diagnosis of faulty equipment by utilizing installation and maintenance manuals.
