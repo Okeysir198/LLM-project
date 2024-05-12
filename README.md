@@ -34,10 +34,10 @@ This project implements a chatbot system utilizing LangChain and Streamlit. The 
 
 ```shell
 # Install packages
-$ pip install langchain==0.1.17 langchain_community==0.0.36 langchain_openai==0.1.4 langchainhub==0.1.15 streamlit==1.33.0 openai==1.25.0 pypdf==4.2.0 docarray==0.40.0
+pip install langchain==0.1.17 langchain_community==0.0.36 langchain_openai==0.1.4 langchainhub==0.1.15 streamlit==1.33.0 openai==1.25.0 pypdf==4.2.0 docarray==0.40.0
 
 # Run the app
-$ streamlit run Home.py
+streamlit run Home.py
 ```
 
 
