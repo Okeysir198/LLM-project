@@ -12,6 +12,7 @@ This project implements a chatbot system utilizing LangChain and Streamlit. The 
 
 * **Frontend:** A web-based application developed using Streamlit that provides the user interface for interacting with the chatbot.
 * **Backend:** Powered by LangChain, the backend leverages large language model (LLM) tools for storing data, processing user input, and generating relevant responses.
+![Solution](asset/GlanceAtChatBot.gif)
 
 ## Detail
 * **Solution Achitecture:**
