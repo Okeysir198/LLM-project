@@ -13,11 +13,33 @@ This project implements a chatbot system utilizing LangChain and Streamlit. The 
 * **Frontend:** A web-based application developed using Streamlit that provides the user interface for interacting with the chatbot.
 * **Backend:** Powered by LangChain, the backend leverages large language model (LLM) tools for storing data, processing user input, and generating relevant responses.
 
+## Detail
+* **Solution Achitecture:**
+  
+![Solution Achitecture](asset/01_SolutionAchitecture.svg)
+
+* **Backend:**
+  
+![Backend](asset/02_Backend.svg)
+
+* **Frontend:**
+  
+![Frontend](asset/03_Frontend.svg)
+
+* **Deployment:** :  Please follow this link for deployment tutorials: [Streamlit Deployment Tutorials] (https://docs.streamlit.io/deploy/tutorials)
+  
+![Deployment](asset/04_Deployment.svg)  
+
 ## ️ Running locally
 
 ```shell
-# Run main streamlit app
+# Install packages
 $ pip install langchain==0.1.17 langchain_community==0.0.36 langchain_openai==0.1.4 langchainhub==0.1.15 streamlit==1.33.0 openai==1.25.0 pypdf==4.2.0 docarray==0.40.0
 
-# Run the main streamlit app
+# Run the app
 $ streamlit run Home.py
+```
+
+
+
+
