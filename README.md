@@ -27,7 +27,7 @@ This project implements a chatbot system utilizing LangChain and Streamlit. The 
   
 ![Frontend](asset/03_Frontend.svg)
 
-* **Deployment:** :  Please follow this link for deployment tutorials: [Streamlit Deployment Tutorials] (https://docs.streamlit.io/deploy/tutorials)
+* **Deployment:** :  Please follow this link for deployment tutorials:  [Streamlit Deployment Tutorials](https://docs.streamlit.io/deploy/tutorials)
   
 ![Deployment](asset/04_Deployment.svg)  
 
